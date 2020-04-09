@@ -1,0 +1,58 @@
+.add-box {
+    margin-top: 20px;
+    background-color: #fff;
+    -webkit-box-shadow: 10px 10px 41px -4px rgba(0, 0, 0, 0.21);
+    -moz-box-shadow: 10px 10px 41px -4px rgba(0, 0, 0, 0.21);
+    box-shadow: 10px 10px 41px -4px rgba(0, 0, 0, 0.21);
+    /* max-width: 1000px; */
+    border-radius: 8px;
+    padding: 10px;
+    position: relative;
+}
+
+.rait-text {
+    color: white;
+    margin: auto;
+    text-align: center;
+}
+
+.welcome-text{
+    margin-left: 10px;
+    color: white;
+}
+
+
+
+.titlediv{
+  margin: auto;
+}
+
+.header{
+    padding-left: 12vmax;
+    padding-right: 12vmax;
+}
+
+#title {
+    padding-top: 38px !important;
+    font-weight: 100;
+    margin-left: 0px;
+}
+
+label {
+    font-weight: 500 !important;
+    font-size: 17px !important;
+    margin-left: 5px;
+}
+
+.main-content h3{
+     font-weight: 200;
+}
+  
+
+.hide{
+    display: none;
+}
+
+.input-group input[type="text"]:disabled{
+    background-color:white;
+}
